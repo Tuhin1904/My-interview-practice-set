@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fname": "Tuhin",
+      "lname": "Ghosh",
+      "age": 20
+    },
+    {
+      "id": 2,
+      "fname": "Tuhin2",
+      "lname": "Ghosh2",
+      "age": 21
+    },
+    {
+      "id": 3,
+      "fname": "Tuhin3",
+      "lname": "Ghosh3",
+      "age": 22
+    },
+    {
+      "id": 4,
+      "fname": "Tuhin4",
+      "lname": "Ghosh4",
+      "age": 23
+    },
+    {
+      "id": 5,
+      "fname": "Tuhin5",
+      "lname": "Ghosh5",
+      "age": 24
+    },
+    {
+      "id": 6,
+      "fname": "Tuhin6",
+      "lname": "Ghosh6",
+      "age": 25
+    },
+    {
+      "fname": "dd",
+      "lname": "dd",
+      "age": 33,
+      "id": 7
+    }
+  ]
+}
